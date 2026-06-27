@@ -1,0 +1,6 @@
+These Files Will Not Be Pushed Up To Github 
+
+#------------------------------------------------
+# Python virtual Enviornment - The virtual environment can be recreated whenever needed. It contains the local Python interpreter, installed packages, and project-specific configuration. Since it can be rebuilt from the project configuration, it does not belong in Git.
+.venv/
+
