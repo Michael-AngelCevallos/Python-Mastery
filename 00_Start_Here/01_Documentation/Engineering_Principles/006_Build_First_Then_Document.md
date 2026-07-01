@@ -1,14 +1,29 @@
-Build First, Then Document
+# Engineering Principle #006
 
+## Principle
 
-
+Build it first. Document it afterward.
 
 ---
 
-## First Introduced
+## Meaning
 
-Mission 0.3 – Developer Environment
+Documentation should reflect reality—not plans or guesses.
 
-Date
+---
 
-June 26, 2026
+## Why It Matters
+
+Accurate documentation comes from experience.
+
+---
+
+## Example
+
+The Virtual Environment documentation was written after successfully creating and activating one.
+
+---
+
+## Key Takeaway
+
+Reality comes before documentation.

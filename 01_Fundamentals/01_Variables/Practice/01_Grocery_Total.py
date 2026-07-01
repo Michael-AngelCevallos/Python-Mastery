@@ -7,20 +7,29 @@
 #
 # ! Scenario:
 #
-# A local grocery store wants a simple program that can
-# calculate the total cost of two items.
-#
-# The cashier will enter the price of the first item.
-# The cashier will then enter the price of the second item.
-#
-# The program should calculate the total price and
-# display the result to the screen.
-#
-# Assume all prices entered are valid numbers.
+# A grocery store wants to calculate the total cost of two items. 
+# The prices of the two items are already known and stored in the program. 
+# Calculate the total and display it.
 
-# 1st understand the problem
-# 2nd plan Using IPO Model (I- What Input Is there? P- What will we do with )
 # ======================================================
+# Mission Analysis
+# ======================================================
+
+# Mission Objective
+# Calculate the total cost of two grocery items.
+
+# Input
+# - Price of first item
+# - Price of second item
+
+# Process
+# - Add both prices together.
+
+# Output
+# - Display the total price.
+# ======================================================
+
+
 
 first_item_price = 29.99
 second_item_price = 3.01

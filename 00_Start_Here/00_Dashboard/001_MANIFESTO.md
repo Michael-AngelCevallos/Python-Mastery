@@ -208,3 +208,165 @@ every mistake,
 and every success
 
 becomes part of this academy.
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Python Mastery Academy Manifesto
+
+# Mission
+
+The goal of Python Mastery is not simply to learn Python.
+
+The goal is to master Python deeply enough to confidently design, build, document, debug, maintain, and teach professional software.
+
+This academy is built on the belief that true mastery comes from understanding, deliberate practice, and consistent reflection—not memorization.
+
+---
+
+# Vision
+
+Python Mastery is Version 1 of a larger engineering academy.
+
+The systems, documentation, workflows, and standards created here will become the foundation for future academies including:
+
+* Java Mastery
+* C# Mastery
+* C++ Mastery
+* SQL Mastery
+
+Every improvement made here should be reusable across future repositories whenever possible.
+
+---
+
+# Learning Philosophy
+
+This academy follows several core principles:
+
+* Understand before memorizing.
+* Understand before executing.
+* Build before documenting.
+* Document experience, not assumptions.
+* Predict before executing.
+* Make the smallest change necessary.
+* Every file has a purpose.
+
+Knowledge is earned through building real software.
+
+---
+
+# Workflow
+
+Every phase follows the same development cycle.
+
+## Phase Start
+
+* Review the mission.
+* Review the roadmap.
+* Define the objectives for the phase.
+
+## Lesson
+
+Approximately 80% of the time is spent learning, experimenting, building, and solving problems.
+
+Documentation is intentionally minimized during this stage to preserve focus.
+
+## Capture
+
+Important concepts, engineering principles, engineering decisions, and documentation updates are recorded as quick capture notes without interrupting the lesson.
+
+## Documentation Mode
+
+After the lesson is complete:
+
+* Update the Knowledge Base.
+* Update Engineering Principles.
+* Update Engineering Decisions.
+* Update indexes.
+* Update release history when appropriate.
+* Update the study log if needed.
+
+## Reflection
+
+The lesson concludes by explaining concepts back, answering mastery questions, and verifying understanding before moving forward.
+
+---
+
+# Repository Standards
+
+This academy follows consistent engineering standards.
+
+* Every major section begins with an index file.
+* Every document follows a standard template.
+* Every project follows a standard project layout.
+* Every engineering decision is documented.
+* Every engineering principle is earned through experience.
+* Every lesson reinforces concepts through hands-on projects.
+
+---
+
+# Current Status
+
+**Current Phase**
+
+Phase 0 — Academy Foundation
+
+**Current Objective**
+
+Build the complete learning system, documentation framework, engineering standards, repository structure, and workflow that will support every future lesson.
+
+**Status**
+
+🟢 In Progress
+
+---
+
+# Phase Roadmap
+
+* 🟢 Phase 0 — Academy Foundation
+* ⚪ Phase 1 — Python Fundamentals
+* ⚪ Phase 2 — Intermediate Python
+* ⚪ Phase 3 — Object-Oriented Programming
+* ⚪ Phase 4 — Modules & Packages
+* ⚪ Phase 5 — File Handling
+* ⚪ Phase 6 — Automation
+* ⚪ Phase 7 — APIs
+* ⚪ Phase 8 — Databases
+* ⚪ Phase 9 — GUI Development
+* ⚪ Phase 10 — Web Development
+* ⚪ Phase 11 — AI with Python
+* ⚪ Phase 12 — Data Science
+* ⚪ Phase 13 — Capstone
+
+---
+
+# Definition of Success
+
+Python Mastery is complete when I can:
+
+* Build complete Python applications from scratch.
+* Read and understand professional Python code.
+* Debug complex problems confidently.
+* Explain Python concepts clearly to other developers.
+* Design software using sound engineering principles.
+* Maintain a professional portfolio of Python projects.
+* Use Python confidently in real-world software engineering work.
+
+---
+
+# Version
+
+Python Mastery Academy
+
+Version 0.1.0
+
+Started: June 2026
+
+Status: Active Development

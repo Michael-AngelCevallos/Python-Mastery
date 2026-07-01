@@ -192,3 +192,31 @@ Both variables now reference the same string object.
 * `print()`
 * Functions
 * Variable Scope
+
+
+---
+
+# Mission Reference
+
+**Phase:** Phase 1 — Python Fundamentals
+
+**Mission:** Mission 1.1 — Variables
+
+**Mission Objective:**
+Learn how Python uses names to reference objects in memory.
+
+---
+
+# Prerequisites
+
+- What Is Python
+- What Is An Interpreter
+- What Is A Virtual Environment
+
+---
+
+# Next Recommended Reading
+
+- What Is A Data Type
+- What Is The Assignment Operator
+- What Is Memory
