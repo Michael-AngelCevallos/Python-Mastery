@@ -25,12 +25,27 @@
 #
 # ======================================================
 
-height_of_wall = 20
-width_of_wall = 12
 
+
+
+# ! Start of Code ============================================================================================================================
+
+
+# Wall Dementions
+height_of_wall = 20
+width_of_wall = 13
+
+
+# Calculation - To Find the Area of the Wall
 area_of_wall = height_of_wall * width_of_wall
 
-gallons_of_paint = area_of_wall / 350
+# 1 gallon of paint sq ft coverage
+paint_coverage_per_gallon = 350
+
+# Calulation - Finds the Number Of Gallons Needed For Wall 
+gallons_of_paint = area_of_wall / paint_coverage_per_gallon
+
+
 
 print(area_of_wall)
 print(gallons_of_paint)
